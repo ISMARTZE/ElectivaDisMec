@@ -1,0 +1,58 @@
+==============================================================================
+PADS Layout - Version 2019.2.15549477
+==============================================================================
+Job Name:                  C:\Users\i5\Desktop\ELECTIVa\IC_SHELTER\PCB\IC SHELTER\IC_SHELTER_PCB_2.pcb
+
+3D Design Status Report:   C:\Users\i5\Desktop\ELECTIVa\IC_SHELTER\PCB\IC SHELTER\LogFiles\DesignStatus3D_00.txt
+
+08:06:47 PM Sunday, November 07, 2021
+
+==============================================================================
+3D DESIGN STATUS
+==============================================================================
+
+Design Z Extents ......... -36.28 th to 851.24 th
+
+Part models found ........ 12
+   Part Number                   3D Model
+   CAP_POL                       C:\Users\i5\Desktop\ELECTIVa\IC_SHELTER\PCB\IC SHELTER\IC_SHELTER_PCB_2_PCB\3D\ImportedPartModels\VE-470M1CTR-0505.STEP
+   CAPACITOR_0805                C:\Users\i5\Desktop\ELECTIVa\IC_SHELTER\PCB\IC SHELTER\IC_SHELTER_PCB_2_PCB\3D\ImportedPartModels\CAP-0805-0.1uF.STEP
+   DIP_SW4                       C:\Users\i5\Desktop\ELECTIVa\IC_SHELTER\PCB\IC SHELTER\IC_SHELTER_PCB_2_PCB\3D\ImportedPartModels\SMD DIP SWITCH 4P.step
+   DIP_SW8                       C:\Users\i5\Desktop\ELECTIVa\IC_SHELTER\PCB\IC SHELTER\IC_SHELTER_PCB_2_PCB\3D\ImportedPartModels\SMD DIP SWITCH 8P.step
+   FODM2705                      C:\Users\i5\Desktop\ELECTIVa\IC_SHELTER\PCB\IC SHELTER\IC_SHELTER_PCB_2_PCB\3D\ImportedPartModels\FODM2705.step
+   MC7805_TO220-UP               C:\Users\i5\Desktop\ELECTIVa\IC_SHELTER\PCB\IC SHELTER\IC_SHELTER_PCB_2_PCB\3D\ImportedPartModels\MC7805CT.step
+   MKE04Z128VLD4                 C:\Users\i5\Desktop\ELECTIVa\IC_SHELTER\PCB\IC SHELTER\IC_SHELTER_PCB_2_PCB\3D\ImportedPartModels\MKE04Z128VLD4.step
+   PY-TB2EDGCR-5_0-2P            C:\Users\i5\Desktop\ELECTIVa\IC_SHELTER\PCB\IC SHELTER\IC_SHELTER_PCB_2_PCB\3D\ImportedPartModels\796644-2.STEP
+   PY-TB2EDGCR-5_0-3P            C:\Users\i5\Desktop\ELECTIVa\IC_SHELTER\PCB\IC SHELTER\IC_SHELTER_PCB_2_PCB\3D\ImportedPartModels\796644-3.STEP
+   RES_SMD_0805                  C:\Users\i5\Desktop\ELECTIVa\IC_SHELTER\PCB\IC SHELTER\IC_SHELTER_PCB_2_PCB\3D\ImportedPartModels\0805-2.2K.STEP
+   RESISTOR                      C:\Users\i5\Desktop\ELECTIVa\IC_SHELTER\PCB\IC SHELTER\IC_SHELTER_PCB_2_PCB\3D\ImportedPartModels\CRCW080510K0FKEAC.STEP
+   SN65HVD3085ED_RS485_8SMD_5V   C:\Users\i5\Desktop\ELECTIVa\IC_SHELTER\PCB\IC SHELTER\IC_SHELTER_PCB_2_PCB\3D\ImportedPartModels\SN65HVD3085ED.stp
+
+Part models not found .... 21
+   Part Number
+   AZ921
+   B0505S-W2R2
+   BDM_6PIN
+   CAP_NP
+   FUSE-STD
+   FUSE1206
+   HEADER_POL_3X2
+   HLK-PM12
+   HOLE_VICTORIA_4_5MM
+   LED_SMD_RED
+   P10V275
+   PUSH_BOTTON
+   PY-TB2EDGCR-5_0-8P
+   RESISTOR_SMD_1206
+   SM712
+   SMBJ12CA
+   TD521D485H-E
+   TEST_POINT_STD
+   TVS
+   ULN2003A_SOIC16
+   XTAL_8MHZ_HC49S
+
+Assemblies
+   Filename: "C:\Users\i5\Desktop\ELECTIVa\LIBRERIA PADS\COMPONENTES\796644-2.STEP", Scale: 1.00
+      Instance: Type=Assembly 	"Temp name 1", Rotate(X, Y, Z in degrees): (0, 0, 0), Translate(X, Y, Z in th): (0, 0, 0) (saved with design)
+

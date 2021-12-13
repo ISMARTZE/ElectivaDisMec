@@ -1,0 +1,186 @@
+[2021.12.12 21:41:03] [0000m.00s.035ms] [0] WELCOME
+[2021.12.12 21:41:03] [0000m.00s.036ms] [1] iCDB Server ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449124 created 2019-12-19 14:24:55, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2021.12.12 21:41:03] [0000m.00s.036ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2021.12.12 21:41:03] [0000m.00s.037ms] [1] Base flow version [VX.2.7]
+[2021.12.12 21:41:03] [0000m.00s.037ms] [1] Install Id [2119024], Flow Id [PADS VX.2.7], Full Flow Name [PADS VX.2.7], Exact Access Date [2020/02/01]
+[2021.12.12 21:41:03] [0000m.00s.037ms] [1] UPDATE Install Info, Install Id [2150279], UPDATE Name [PADS VX.2.7 - Update 1]
+[2021.12.12 21:41:03] [0000m.00s.049ms] [1] Machine [I5-PC]  IP [10.0.0.9,127.0.0.1]  User [Ismael P. Martínez]  PID [15048]
+[2021.12.12 21:41:03] [0000m.00s.050ms] [1] Operating system [Microsoft Windows 10 Business Edition, 64-bit (build 19042)]
+[2021.12.12 21:41:03] [0000m.00s.050ms] [1] Current working dir [C:\Users\i5\Desktop\ELECTIVa\IC_SHELTER]
+[2021.12.12 21:41:03] [0000m.00s.050ms] [1] PATH [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\lib;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Dell\Dell Data Protection\Drivers\TSS\bin\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\MinGW\bin;C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility;C:\Program Files\TortoiseGit\bin;D:\Git\cmd;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\IVI\bin;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Program Files\MATLAB\MATLAB Runtime\v93\runtime\win64;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\i5\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\MinGW\mingw32\bin;E:\PROGRAMAS\Visual Studio Code Insiders\Microsoft VS Code Insiders\bin]
+[2021.12.12 21:41:03] [0000m.00s.050ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.7\SDD_HOME] on file system [NTFS]
+[2021.12.12 21:41:03] [0000m.00s.050ms] [1] SDD_PLATFORM [win32]
+[2021.12.12 21:41:03] [0000m.00s.050ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\standard;]
+[2021.12.12 21:41:03] [0000m.00s.050ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2021.12.12 21:41:03] [0000m.00s.051ms] [2] S: Loading config files
+[2021.12.12 21:41:03] [0000m.00s.073ms] [1] Config file [C:\Users\i5\Desktop\ELECTIVa\IC_SHELTER\database\cdbsvr\Server.cfg] not found
+[2021.12.12 21:41:03] [0000m.00s.075ms] [3] S: Config loaded
+[2021.12.12 21:41:03] [0000m.00s.094ms] [0] S: Project path [C:\Users\i5\Desktop\ELECTIVa\IC_SHELTER\database] on file system [NTFS]
+[2021.12.12 21:41:03] [0000m.00s.095ms] [0] S: Project global path [\\I5-PC\C\Users\i5\Desktop\ELECTIVa\IC_SHELTER\database] on file system [NTFS]
+[2021.12.12 21:41:03] [0000m.00s.096ms] [0] S: Project file (.prj) path [\\I5-PC\C\Users\i5\Desktop\ELECTIVa\IC_SHELTER\ICSHELTER.prj] on file system [UNKNOWN]
+[2021.12.12 21:41:03] [0000m.00s.096ms] [0] S: Project file (.prj) local path [C:\Users\i5\Desktop\ELECTIVa\IC_SHELTER\ICSHELTER.prj] on file system [NTFS]
+[2021.12.12 21:41:03] [0000m.00s.096ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2021.12.12 21:41:03] [0000m.00s.096ms] [0] S: Single-user mode (auto)
+[2021.12.12 21:41:03] [0000m.00s.097ms] [0] S: Event polling mode autodetection
+[2021.12.12 21:41:04] [0000m.00s.099ms] [0] S: Started up automatically by iCDB Client: I5-PC:Ismael P. Martínez:13496
+[2021.12.12 21:41:04] [0000m.00s.099ms] [0] S: Auto close mode
+[2021.12.12 21:41:04] [0000m.00s.099ms] [0] S: Database ID [6925-e558-2d3e-e63f-66ed-571c-6ed5-7160-058b-29ea-1ae5-e576]
+[2021.12.12 21:41:04] [0000m.00s.099ms] [0] PathTranslator: BEGIN dumping
+[2021.12.12 21:41:04] [0000m.00s.099ms] [0] PathTranslator: Local -> global path prefix list
+[2021.12.12 21:41:04] [0000m.00s.099ms] [0] PathTranslator: [Y:\] -> [\\RaiDrive-Ismael P. Martínez\Google Drive\]
+[2021.12.12 21:41:04] [0000m.00s.099ms] [0] PathTranslator: [Z:\] -> [\\RaiDrive-Ismael P. Martínez\MEGA\]
+[2021.12.12 21:41:04] [0000m.00s.099ms] [0] PathTranslator: [C:\] -> [\\I5-PC\C]
+[2021.12.12 21:41:04] [0000m.00s.099ms] [0] PathTranslator: Global -> local path prefix list
+[2021.12.12 21:41:04] [0000m.00s.099ms] [0] PathTranslator: [\\RaiDrive-Ismael P. Martínez\Google Drive\] -> [Y:\]
+[2021.12.12 21:41:04] [0000m.00s.099ms] [0] PathTranslator: [\\RaiDrive-Ismael P. Martínez\MEGA\] -> [Z:\]
+[2021.12.12 21:41:04] [0000m.00s.099ms] [0] PathTranslator: [\\I5-PC\C] -> [C:\]
+[2021.12.12 21:41:04] [0000m.00s.099ms] [0] PathTranslator: END dumping
+[2021.12.12 21:41:04] [0000m.00s.099ms] [0] S: START
+[2021.12.12 21:41:04] [0000m.00s.100ms] [0] S: Server startup lock file created
+[2021.12.12 21:41:04] [0000m.00s.100ms] [0] S: Listening for client connections on port [10001]
+[2021.12.12 21:41:04] [0000m.00s.102ms] [0] S: Server network ID [i5-PC:10.0.0.9,i5-PC:10001]
+[2021.12.12 21:41:04] [0000m.00s.103ms] [0] S: Server GUID [f188-869e-7d24-b175-0b4a-6b16-b4a6-b160-c6fb-29ea-1ae5-e576]
+[2021.12.12 21:41:04] [0000m.00s.103ms] [0] S: Project GUID [6925-e558-2d3e-e63f-66ed-571c-6ed5-7160-058b-29ea-1ae5-e576]
+[2021.12.12 21:41:04] [0000m.00s.106ms] [0] S: Wrote data to server address file
+[2021.12.12 21:41:04] [0000m.00s.106ms] [0] S: Server startup lock file removed
+[2021.12.12 21:41:04] [0000m.00s.107ms] [1] ProjectBackupManager: Setting project file (.prj) path: [C:\Users\i5\Desktop\ELECTIVa\IC_SHELTER\ICSHELTER.prj]
+[2021.12.12 21:41:05] [0000m.01s.249ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2021.12.12 21:41:05] [0000m.01s.249ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\iCDB\win32\bin]
+[2021.12.12 21:41:05] [0000m.01s.249ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin]
+[2021.12.12 21:41:05] [0000m.01s.253ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2021.12.12 21:41:05] [0000m.01s.253ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2021.12.12 21:41:05] [0000m.01s.254ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2021.12.12 21:41:05] [0000m.01s.254ms] [0] S: Local disc access time: 117 us
+[2021.12.12 21:41:05] [0000m.01s.254ms] [0] S: File server access time: 115 us
+[2021.12.12 21:41:05] [0000m.01s.282ms] [0] Single file [C:\Users\i5\Desktop\ELECTIVa\IC_SHELTER\database\icdb.dat] size [561136 (548.0 kB)]
+[2021.12.12 21:41:05] [0000m.01s.282ms] [1] Single file [C:\Users\i5\Desktop\ELECTIVa\IC_SHELTER\database\icdb.dat] opened in read-write mode
+[2021.12.12 21:41:05] [0000m.01s.283ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.12.12 21:41:05] [0000m.01s.283ms] [0] Database GUARD OK: [561136]
+[2021.12.12 21:41:05] [0000m.01s.293ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.12.12 21:41:05] [0000m.01s.294ms] [0] Database GUARD OK: [561136]
+[2021.12.12 21:41:05] [0000m.01s.294ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.12.12 21:41:05] [0000m.01s.294ms] [0] Database GUARD OK: [561136]
+[2021.12.12 21:41:05] [0000m.01s.295ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.12.12 21:41:05] [0000m.01s.295ms] [0] Database GUARD OK: [561136]
+[2021.12.12 21:41:05] [0000m.01s.298ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.12.12 21:41:05] [0000m.01s.298ms] [0] Database GUARD OK: [561136]
+[2021.12.12 21:41:05] [0000m.01s.298ms] [0] SingleFile: [c49e-665f-a50a-4e06] SFI version check [1009] [1009]
+[2021.12.12 21:41:05] [0000m.01s.323ms] [0] SingleFile: [c49e-665f-a50a-4e06] Database SFI header has been read in [24ms 613us]
+[2021.12.12 21:41:05] [0000m.01s.344ms] [0] iCDB Server PI: Server & plugin session [654]
+[2021.12.12 21:41:05] [0000m.01s.344ms] [0] iCDB Server PI: Opening database [C:\Users\i5\Desktop\ELECTIVa\IC_SHELTER\database]
+[2021.12.12 21:41:05] [0000m.01s.345ms] [0] iCDB Server PI: Database [C:\Users\i5\Desktop\ELECTIVa\IC_SHELTER\database] opened
+[2021.12.12 21:41:05] [0000m.01s.524ms] [0] iCDB Database: Checking existence of constraint definitions
+[2021.12.12 21:41:05] [0000m.01s.524ms] [0] iCDB Database: Checking constraint definitions version
+[2021.12.12 21:41:05] [0000m.01s.620ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.69] up to date
+[2021.12.12 21:41:05] [0000m.01s.634ms] [0] iCDB Server PI: Initializing plugins
+[2021.12.12 21:41:05] [0000m.01s.635ms] [0] iCDB Server PI: Plugins initialized
+[2021.12.12 21:41:05] [0000m.01s.636ms] [0] S: iCDB database loaded
+[2021.12.12 21:41:05] [0000m.01s.640ms] [0] S: Starting threads
+[2021.12.12 21:41:05] [0000m.01s.643ms] [0] BT: Listening for broadcast messages on port [10000]
+[2021.12.12 21:41:05] [0000m.01s.644ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2021.12.12 21:41:05] [0000m.01s.649ms] [0] IT: Session [655] for host [i5-PC] user [Ismael P. Martínez] client type[0] clsvrPluginID[0] with process ID [13496] created
+[2021.12.12 21:41:05] [0000m.01s.662ms] [0] IT: iCDB Server Monitor session [1] for host [i5-PC] user [Ismael P. Martínez] with process ID [10312] created
+[2021.12.12 21:41:05] [0000m.01s.662ms] [1] DMT: There are [1] iCDB Server Monitor connected now
+[2021.12.12 21:41:05] [0000m.01s.684ms] [0] MWT: WindowProc: WM_NCCREATE
+[2021.12.12 21:41:05] [0000m.01s.716ms] [1] SC[655]: Registered sub-client [DxD] with ID [1] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:05] [0000m.01s.750ms] [1] CMT: There are [1] clients now: 655
+[2021.12.12 21:41:05] [0000m.02s.048ms] [1] SC[655]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:05] [0000m.02s.094ms] [1] SC[655]: Registered sub-client [SymbolEditor] with ID [3] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:06] [0000m.02s.105ms] [1] SC[655]: Registered sub-client [SelectionHolder] with ID [4] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:06] [0000m.02s.180ms] [1] SC[655]: Registered sub-client [Core::DesignListener-442470464-0] with ID [5] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:06] [0000m.02s.189ms] [1] SC[655]: Registered sub-client [BlockCacheDxD:442469696] with ID [6] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:06] [0000m.02s.195ms] [1] SC[655]: Registered sub-client [Core::NetFlatData-25011] with ID [7] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:06] [0000m.02s.267ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\Users\i5\Desktop\ELECTIVa\IC_SHELTER\ProjectBackup\backups\2021-12-12 21.41.05 - auto.zip] with GUID [a1f6-fb8c-3990-77b8-1b4a-6b17-b4a6-b160-8fcd-29ea-1ae5-e576]
+[2021.12.12 21:41:06] [0000m.02s.267ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[bad9-f05c-8b4e-7e81-a1b8-0810-2b80-8160-2253-3fd0-3d49-6959] CreationTime[Tuesday, November 02, 2021 00:49:30] Type[Autosave] Creator[iCDB Server (2021-11-01 20.49.29-1408)] ApplicationName[iCDB Server (2021-11-01 20.49.29-1408)] UserName[Ismael P. Martínez] MachineName[I5-PC] Description[Autosave] FullFlowName[PADS VX.2.7; PADS VX.2.7 - Update 1] FlowId[PADSVX.2.7] GBSInstallId[2119024; 2150279] GBSBuildId[15449124] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[C:\Users\i5\Desktop\ELECTIVa\IC_SHELTER\ProjectBackup\backups\2021-11-01 20.49.30 - auto.zip] BackupFileSize[581134] Persistent[FALSE]
+[2021.12.12 21:41:06] [0000m.02s.268ms] [0] PrjBackupMgr: Project Backup file [C:\Users\i5\Desktop\ELECTIVa\IC_SHELTER\ProjectBackup\backups\2021-11-01 20.49.30 - auto.zip] with GUID [bad9-f05c-8b4e-7e81-a1b8-0810-2b80-8160-2253-3fd0-3d49-6959] removed
+[2021.12.12 21:41:06] [0000m.02s.270ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[a1f6-fb8c-3990-77b8-1b4a-6b17-b4a6-b160-8fcd-29ea-1ae5-e576] CreationTime[Monday, December 13, 2021 01:41:05] Type[Autosave] Creator[iCDB Server (2021-12-12 21.41.03-15048)] ApplicationName[iCDB Server (2021-12-12 21.41.03-15048)] UserName[Ismael P. Martínez] MachineName[I5-PC] Description[Autosave] FullFlowName[PADS VX.2.7; PADS VX.2.7 - Update 1] FlowId[PADSVX.2.7] GBSInstallId[2119024; 2150279] GBSBuildId[15449124] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[C:\Users\i5\Desktop\ELECTIVa\IC_SHELTER\ProjectBackup\backups\2021-12-12 21.41.05 - auto.zip] BackupFileSize[570431] Persistent[FALSE]
+[2021.12.12 21:41:06] [0000m.02s.337ms] [1] SC[655]: Registered sub-client [SystemDesignDll] with ID [8] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:06] [0000m.02s.352ms] [1] SC[655]: UnRegistered sub-client [SystemDesignDll] with ID [8] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:06] [0000m.02s.359ms] [1] SC[655]: Registered sub-client [SystemDesignDll] with ID [9] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:09] [0000m.05s.572ms] [1] SC[655]: Registered sub-client [DesignSearcher2] with ID [10] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:09] [0000m.05s.591ms] [1] SC[655]: Registered sub-client [HdlProject] with ID [11] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:09] [0000m.05s.603ms] [1] SC[655]: Registered sub-client [Navigator] with ID [12] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:09] [0000m.05s.629ms] [1] SC[655]: Registered sub-client [OutputWindow] with ID [13] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:09] [0000m.05s.634ms] [1] SC[655]: Registered sub-client [PlaceDevice] with ID [14] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:09] [0000m.05s.697ms] [1] SC[655]: Registered sub-client [FFSearch_RBHost] with ID [15] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:09] [0000m.05s.702ms] [1] SC[655]: Registered sub-client [LocalSymbolsDataProvider] with ID [16] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:11] [0000m.07s.888ms] [1] SC[655]: Registered sub-client [FFSSelListener] with ID [17] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:11] [0000m.07s.893ms] [1] SC[655]: Registered sub-client [SAE] with ID [18] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:11] [0000m.07s.914ms] [1] SC[655]: Registered sub-client [DxConstraints] with ID [19] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:11] [0000m.07s.918ms] [1] SC[655]: Registered sub-client [CCZAddin] with ID [20] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:11] [0000m.07s.923ms] [1] SC[655]: Registered sub-client [DxThumbnails] with ID [21] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:11] [0000m.07s.927ms] [1] SC[655]: Registered sub-client [MyParts] with ID [22] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:11] [0000m.07s.963ms] [1] SC[655]: Registered sub-client [PinsList] with ID [23] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:12] [0000m.08s.177ms] [1] SC[655]: Registered sub-client [toolboxes] with ID [24] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:12] [0000m.08s.435ms] [1] SC[655]: Registered sub-client [IBDInstanceDialog] with ID [25] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:12] [0000m.08s.441ms] [1] SC[655]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:624760312] with ID [26] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:12] [0000m.08s.532ms] [1] SC[655]: Registered sub-client [SheetConnectorsCacheDxD:1639359672] with ID [27] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:12] [0000m.08s.651ms] [1] SC[655]: Registered sub-client [NetsNamesCollectorDxD:1639359672] with ID [28] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:12] [0000m.08s.715ms] [1] SC[655]: Registered sub-client [PartReplaceUtils] with ID [29] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:12] [0000m.08s.720ms] [1] SC[655]: Registered sub-client [PartReplaceUtilsSelectionListener] with ID [30] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:12] [0000m.08s.745ms] [1] SC[655]: Registered sub-client [xprob] with ID [31] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:12] [0000m.08s.843ms] [1] SC[655]: Registered sub-client [StartServerClient3294] with ID [32] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:12] [0000m.08s.843ms] [1] SC[655]: UnRegistered sub-client [StartServerClient3294] with ID [32] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:17] [0000m.13s.944ms] [1] SC[655]: Registered sub-client [ObjectHolder_626455928] with ID [33] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:17] [0000m.13s.956ms] [1] SC[655]: Registered sub-client [BlockCacheDxD:629811912] with ID [34] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:17] [0000m.13s.962ms] [1] SC[655]: Registered sub-client [GlobalNetAliasUpdater_626455200] with ID [35] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:17] [0000m.13s.969ms] [1] SC[655]: Registered sub-client [IcdbNetProcessorSubClientDxD:630106744] with ID [36] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 21:41:36] [0000m.32s.642ms] [0] DFAMT: File server access time: 119 us
+[2021.12.12 22:12:19] [0031m.16s.004ms] [1] SC[655]: UnRegistered sub-client [SystemDesignDll] with ID [9] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:20] [0031m.16s.132ms] [1] SC[655]: UnRegistered sub-client [DesignSearcher2] with ID [10] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:20] [0031m.16s.496ms] [1] SC[655]: UnRegistered sub-client [GlobalNetAliasUpdater_626455200] with ID [35] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:20] [0031m.16s.496ms] [1] SC[655]: UnRegistered sub-client [BlockCacheDxD:629811912] with ID [34] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:20] [0031m.16s.497ms] [1] SC[655]: UnRegistered sub-client [ObjectHolder_626455928] with ID [33] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:20] [0031m.16s.497ms] [1] SC[655]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:630106744] with ID [36] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:20] [0031m.16s.504ms] [1] SC[655]: UnRegistered sub-client [Navigator] with ID [12] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:20] [0031m.16s.512ms] [1] SC[655]: UnRegistered sub-client [FFSSelListener] with ID [17] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:20] [0031m.16s.525ms] [1] SC[655]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [16] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:20] [0031m.16s.696ms] [1] SC[655]: UnRegistered sub-client [FFSearch_RBHost] with ID [15] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:20] [0031m.16s.738ms] [1] SC[655]: UnRegistered sub-client [MyParts] with ID [22] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:20] [0031m.16s.742ms] [1] SC[655]: UnRegistered sub-client [toolboxes] with ID [24] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:20] [0031m.16s.851ms] [1] SC[655]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:20] [0031m.16s.853ms] [1] SC[655]: UnRegistered sub-client [PartReplaceUtils] with ID [29] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:20] [0031m.16s.854ms] [1] SC[655]: UnRegistered sub-client [PartReplaceUtilsSelectionListener] with ID [30] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:21] [0031m.17s.777ms] [1] SC[655]: UnRegistered sub-client [ProjectIntegrationIcdbCacheDxD:624760312] with ID [26] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:21] [0031m.17s.778ms] [1] SC[655]: UnRegistered sub-client [Core::NetFlatData-25011] with ID [7] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:21] [0031m.17s.779ms] [1] SC[655]: UnRegistered sub-client [BlockCacheDxD:442469696] with ID [6] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:21] [0031m.17s.779ms] [1] SC[655]: UnRegistered sub-client [Core::DesignListener-442470464-0] with ID [5] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:21] [0031m.17s.780ms] [1] SC[655]: UnRegistered sub-client [SheetConnectorsCacheDxD:1639359672] with ID [27] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:21] [0031m.17s.781ms] [1] SC[655]: UnRegistered sub-client [NetsNamesCollectorDxD:1639359672] with ID [28] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:21] [0031m.17s.788ms] [1] SC[655]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:21] [0031m.17s.789ms] [1] SC[655]: UnRegistered sub-client [DxD] with ID [1] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:21] [0031m.17s.816ms] [1] SC[655]: UnRegistered sub-client [xprob] with ID [31] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:21] [0031m.17s.817ms] [1] SC[655]: UnRegistered sub-client [SymbolEditor] with ID [3] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:21] [0031m.17s.854ms] [1] SC[655]: UnRegistered sub-client [OutputWindow] with ID [13] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:21] [0031m.17s.886ms] [1] SC[655]: UnRegistered sub-client [SAE] with ID [18] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:21] [0031m.17s.926ms] [1] SC[655]: UnRegistered sub-client [CCZAddin] with ID [20] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:21] [0031m.17s.935ms] [1] SC[655]: UnRegistered sub-client [DxThumbnails] with ID [21] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:32] [0031m.28s.925ms] [1] SC[655]: UnRegistered sub-client [DxConstraints] with ID [19] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:32] [0031m.29s.016ms] [1] SC[655]: UnRegistered sub-client [PinsList] with ID [23] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:33] [0031m.29s.165ms] [1] SC[655]: UnRegistered sub-client [PlaceDevice] with ID [14] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:33] [0031m.29s.253ms] [1] SC[655]: UnRegistered sub-client [IBDInstanceDialog] with ID [25] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:33] [0031m.29s.272ms] [1] SC[655]: UnRegistered sub-client [HdlProject] with ID [11] for session ID [655] host [i5-PC] user [Ismael P. Martínez] process ID [13496]
+[2021.12.12 22:12:33] [0031m.29s.368ms] [1] CMT: Removed client [655]
+[2021.12.12 22:12:33] [0031m.29s.368ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2021.12.12 22:12:33] [0031m.29s.574ms] [1] SDL: The last connected iCDB Server Monitor [1] is waiting for server close
+[2021.12.12 22:12:35] [0031m.31s.158ms] [0] CMT: Starting server auto-close
+[2021.12.12 22:12:35] [0031m.31s.221ms] [0] S: Closing server
+[2021.12.12 22:12:35] [0031m.31s.315ms] [0] iCDB Server PI: Closing plugins
+[2021.12.12 22:12:35] [0031m.31s.315ms] [0] iCDB Server PI: Plugins closed
+[2021.12.12 22:12:35] [0031m.31s.315ms] [0] iCDB Server PI: Unloading database
+[2021.12.12 22:12:35] [0031m.31s.319ms] [0] iCDB Server PI: Saving storage
+[2021.12.12 22:12:35] [0031m.31s.319ms] [0] iCDB Server PI: Closing database
+[2021.12.12 22:12:35] [0031m.31s.373ms] [1] iCDB Server PI: Stats: Database defragmentation: max[3] avg[1] holes[8%] data[95%]
+[2021.12.12 22:12:35] [0031m.31s.373ms] [1] iCDB Server PI: Stats: Database file size [561136 (548.0 kB)]
+[2021.12.12 22:12:35] [0031m.31s.479ms] [0] iCDB Server PI: Database closed
+[2021.12.12 22:12:35] [0031m.31s.479ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [703736] ticks
+[2021.12.12 22:12:35] [0031m.31s.479ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [70373] microseconds
+[2021.12.12 22:12:35] [0031m.31s.479ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [32]
+[2021.12.12 22:12:35] [0031m.31s.479ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [454] commands per second
+[2021.12.12 22:12:35] [0031m.31s.479ms] [1] iCDB Server PI: Stats: Mem[34746368]
+[2021.12.12 22:12:35] [0031m.31s.479ms] [1] iCDB Server PI: Stats: MemPeak[44683264]
+[2021.12.12 22:12:35] [0031m.31s.480ms] [0] Single file [C:\Users\i5\Desktop\ELECTIVa\IC_SHELTER\database\icdb.dat] closed with size [561136 (548.0 kB)]
+[2021.12.12 22:12:35] [0031m.31s.580ms] [1] SD[1]: Removing the last connected iCDB Server Monitor [1]
+[2021.12.12 22:12:35] [0031m.31s.987ms] [0] MWT: Destroy the shutdown block reason.
+[2021.12.12 22:12:35] [0031m.31s.988ms] [0] MWT: STOP
+[2021.12.12 22:12:35] [0031m.31s.989ms] [0] S: STOP

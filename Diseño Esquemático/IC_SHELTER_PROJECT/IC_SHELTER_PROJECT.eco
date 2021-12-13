@@ -1,0 +1,238 @@
+*PADS-ECO-V10.0-MILS*
+*REMARK*  old file: C:\Users\i5\Desktop\ELECTIVa\IC_SHELTER\PCB\IC SHELTER\IC_SHELTER_P01.asc
+*REMARK*  new file: C:\Users\i5\Desktop\ELECTIVa\IC_SHELTER\IC_SHELTER_PROJECT.asc
+*REMARK*  created by ECOGEN (Version 6.4v) on 24/10/2021 11:11:15 p. m.
+*PART*
+H1  HOLE_VICTORIA_4_5MM@HOLE_VICTORIA
+H2  HOLE_VICTORIA_4_5MM@HOLE_VICTORIA
+*DEL_ATTRIBUTE*	PART	K1
+"Geometry.Height"
+"STATUS"
+"TIMESTAMP"
+*DEL_ATTRIBUTE*	PART	K2
+"Geometry.Height"
+"STATUS"
+"TIMESTAMP"
+*DEL_ATTRIBUTE*	PART	K3
+"Geometry.Height"
+"STATUS"
+"TIMESTAMP"
+*DEL_ATTRIBUTE*	PART	K4
+"Geometry.Height"
+"STATUS"
+"TIMESTAMP"
+*DEL_ATTRIBUTE*	PART	K5
+"Geometry.Height"
+"STATUS"
+"TIMESTAMP"
+*DEL_ATTRIBUTE*	PART	C10
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C12
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C13
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C15
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C16
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C18
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C19
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C20
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C7
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C8
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C9
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C21
+"Geometry.Height"
+"IPC_VERSION"
+"POLARITY"
+"STATUS"
+"TIMESTAMP"
+*DEL_ATTRIBUTE*	PART	U4
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	U5
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	U6
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	U7
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D11
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D12
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D13
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D14
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D17
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D18
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D19
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D2
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D20
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D21
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D22
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D3
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D4
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D5
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D6
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	U1
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R35
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R37
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R38
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R39
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R40
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R41
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R42
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R43
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R44
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R45
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R47
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R48
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R49
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R50
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R56
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R27
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R28
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R29
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R30
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R1
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R10
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R11
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R12
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R13
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R14
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R15
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R16
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R17
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R18
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R19
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R2
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R20
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R21
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R22
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R23
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R24
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R25
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R26
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R31
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R32
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R33
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R36
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R46
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R51
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R52
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R53
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R54
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R55
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R57
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R6
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R7
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R8
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R9
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	U10
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	U8
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	U9
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	TVS3
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	U3
+"Geometry.Height"
+*SET_ATTRIBUTE*	PART	H1
+"Part Number"	HOLE
+"PKG_TYPE"	HOLE_VICTORIA
+"Description"	HOLE 4.5MM
+*SET_ATTRIBUTE*	PART	H2
+"Part Number"	HOLE
+"PKG_TYPE"	HOLE_VICTORIA
+"Description"	HOLE 4.5MM
+
+*MODIFY_GENERAL_RULES*	ROUTING
+
+HIERARCHY_OBJECT	PCB:PCB
+LENGTH_MINIMIZATION_TYPE	TOTAL
+VIA_SHARE	ON
+MAX_NUMBER_OF_VIAS	-1
+TRACE_SHARE	ON
+AUTO_ROUTE	ON
+RIPUP	ON
+SHOVE	ON
+SHOVE_PROTECTED	OFF
+ROUTE_PRIORITY	3
+VALID_LAYER	1
+VALID_LAYER	2
+VALID_VIA_TYPE	*USE_CURRENT*
+
+*REMARK*  Deleted pins: 0,  Added pins: 0
+*END*

@@ -1,0 +1,59 @@
+[2021.10.04 19:41:30] [0000m.23s.143ms] [0] WELCOME
+[2021.10.04 19:41:30] [0000m.23s.144ms] [1] iCDB Database ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449124 created 2019-12-19 14:24:55, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2021.10.04 19:41:30] [0000m.23s.144ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2021.10.04 19:41:30] [0000m.23s.144ms] [1] Base flow version [VX.2.7]
+[2021.10.04 19:41:30] [0000m.23s.144ms] [1] Install Id [2119024], Flow Id [PADS VX.2.7], Full Flow Name [PADS VX.2.7], Exact Access Date [2020/02/01]
+[2021.10.04 19:41:30] [0000m.23s.144ms] [1] UPDATE Install Info, Install Id [2150279], UPDATE Name [PADS VX.2.7 - Update 1]
+[2021.10.04 19:41:30] [0000m.23s.145ms] [1] Machine [I5-PC]  IP [10.0.0.9,127.0.0.1]  User [Ismael P. Martínez]  PID [2840]
+[2021.10.04 19:41:30] [0000m.23s.145ms] [1] Operating system [Microsoft Windows 8 Business Edition, 64-bit (build 9200)]
+[2021.10.04 19:41:30] [0000m.23s.145ms] [1] Current working dir [C:\Users\i5\Downloads\fox-cr7\Smart-HVAC_netlist]
+[2021.10.04 19:41:30] [0000m.23s.145ms] [1] PATH [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\lib;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Dell\Dell Data Protection\Drivers\TSS\bin\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\MinGW\bin;C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility;C:\Program Files\TortoiseGit\bin;D:\Git\cmd;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\i5\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\MinGW\mingw32\bin;C:\Users\i5\AppData\Local\Programs\Microsoft VS Code Insiders\bin;]
+[2021.10.04 19:41:30] [0000m.23s.145ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.7\SDD_HOME] on file system [NTFS]
+[2021.10.04 19:41:30] [0000m.23s.145ms] [1] SDD_PLATFORM [win32]
+[2021.10.04 19:41:30] [0000m.23s.145ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\standard;]
+[2021.10.04 19:41:30] [0000m.23s.146ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2021.10.04 19:41:30] [0000m.23s.146ms] [3] WARNING: Database [C:\Users\i5\Downloads\fox-cr7\Smart-HVAC_netlist\database\icdb.dat] was manually copied
+[2021.10.04 19:41:30] [0000m.23s.146ms] [3] File change time:        [2021-10-04 19.40.57]
+[2021.10.04 19:41:30] [0000m.23s.146ms] [3] File modification time:  [2021-10-04 19.40.57]
+[2021.10.04 19:41:30] [0000m.23s.146ms] [3] Last change time:        [2021-03-16 17.11.42]
+[2021.10.04 19:41:30] [0000m.23s.146ms] [3] Last database open information:
+[2021.10.04 19:41:30] [0000m.23s.146ms] [3] Time:             [2021-03-16 17.11.07]
+[2021.10.04 19:41:30] [0000m.23s.146ms] [3] Location:         [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\database\icdb.dat]
+[2021.10.04 19:41:30] [0000m.23s.146ms] [3] Machine:          [MG-CEO]
+[2021.10.04 19:41:30] [0000m.23s.146ms] [3] User:             [carlo]
+[2021.10.04 19:41:30] [0000m.23s.146ms] [3] PID:              [11892]
+[2021.10.04 19:41:30] [0000m.23s.146ms] [3] Application:      [iCDB Server]
+[2021.10.04 19:41:30] [0000m.23s.146ms] [3] Operating system: [Microsoft Windows 10 Business Edition, 64-bit (build 19042)]
+[2021.10.04 19:41:30] [0000m.23s.146ms] [3] WARNING: Regenerating database GUID
+[2021.10.04 19:41:30] [0000m.23s.146ms] [3] Previous database GUID [24fd-d73d-e044-a7ed-0355-4306-3554-3060-ffcb-5525-30fb-b391]
+[2021.10.04 19:41:30] [0000m.23s.147ms] [3] Current database GUID  [909c-a879-c321-1773-a219-b510-319b-5160-cccc-29ea-1ae5-e576]
+[2021.10.04 19:41:30] [0000m.23s.147ms] [0] .
+[2021.10.04 19:41:30] [0000m.23s.166ms] [0] WELCOME
+[2021.10.04 19:41:30] [0000m.23s.167ms] [1] iCDB Database ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449124 created 2019-12-19 14:24:55, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2021.10.04 19:41:30] [0000m.23s.167ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2021.10.04 19:41:30] [0000m.23s.167ms] [1] Base flow version [VX.2.7]
+[2021.10.04 19:41:30] [0000m.23s.167ms] [1] Install Id [2119024], Flow Id [PADS VX.2.7], Full Flow Name [PADS VX.2.7], Exact Access Date [2020/02/01]
+[2021.10.04 19:41:30] [0000m.23s.167ms] [1] UPDATE Install Info, Install Id [2150279], UPDATE Name [PADS VX.2.7 - Update 1]
+[2021.10.04 19:41:30] [0000m.23s.168ms] [1] Machine [I5-PC]  IP [10.0.0.9,127.0.0.1]  User [Ismael P. Martínez]  PID [2840]
+[2021.10.04 19:41:30] [0000m.23s.168ms] [1] Operating system [Microsoft Windows 8 Business Edition, 64-bit (build 9200)]
+[2021.10.04 19:41:30] [0000m.23s.168ms] [1] Current working dir [C:\Users\i5\Downloads\fox-cr7\Smart-HVAC_netlist]
+[2021.10.04 19:41:30] [0000m.23s.168ms] [1] PATH [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\lib;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Dell\Dell Data Protection\Drivers\TSS\bin\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\MinGW\bin;C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility;C:\Program Files\TortoiseGit\bin;D:\Git\cmd;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\i5\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\MinGW\mingw32\bin;C:\Users\i5\AppData\Local\Programs\Microsoft VS Code Insiders\bin;]
+[2021.10.04 19:41:30] [0000m.23s.168ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.7\SDD_HOME] on file system [NTFS]
+[2021.10.04 19:41:30] [0000m.23s.168ms] [1] SDD_PLATFORM [win32]
+[2021.10.04 19:41:30] [0000m.23s.168ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\standard;]
+[2021.10.04 19:41:30] [0000m.23s.168ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2021.10.04 19:41:30] [0000m.23s.168ms] [3] File change time:        [2021-10-04 19.41.30]
+[2021.10.04 19:41:30] [0000m.23s.169ms] [3] File modification time:  [2021-10-04 19.41.30]
+[2021.10.04 19:41:30] [0000m.23s.169ms] [3] Last change time:        [2021-10-04 19.41.30]
+[2021.10.04 19:41:30] [0000m.23s.169ms] [3] Last database open information:
+[2021.10.04 19:41:30] [0000m.23s.169ms] [3] Time:             [2021-03-16 17.11.07]
+[2021.10.04 19:41:30] [0000m.23s.169ms] [3] Location:         [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\database\icdb.dat]
+[2021.10.04 19:41:30] [0000m.23s.169ms] [3] Machine:          [MG-CEO]
+[2021.10.04 19:41:30] [0000m.23s.169ms] [3] User:             [carlo]
+[2021.10.04 19:41:30] [0000m.23s.169ms] [3] PID:              [11892]
+[2021.10.04 19:41:30] [0000m.23s.169ms] [3] Application:      [iCDB Server]
+[2021.10.04 19:41:30] [0000m.23s.169ms] [3] Operating system: [Microsoft Windows 10 Business Edition, 64-bit (build 19042)]
+[2021.10.04 19:41:30] [0000m.23s.169ms] [3] Database GUID must be regenerated
+[2021.10.04 19:41:30] [0000m.23s.169ms] [3] Previous database GUID [909c-a879-c321-1773-a219-b510-319b-5160-cccc-29ea-1ae5-e576]
+[2021.10.04 19:41:30] [0000m.23s.169ms] [3] Current database GUID  [1bfa-1b74-3be1-96be-a219-b510-319b-5160-cccc-29ea-1ae5-e576]
+[2021.10.04 19:41:30] [0000m.23s.169ms] [0] .
